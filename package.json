@@ -7,6 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "immutable": "^3.7.6",
-    "redux-plugins-immutable": "^1.0.2"
+    "redux-plugins-immutable": "^1.2.2"
   }
 }
